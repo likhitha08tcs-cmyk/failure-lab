@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-import nonexistent_module
+# import nonexistent_module
 
 app = FastAPI()
 
